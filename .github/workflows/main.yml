@@ -11,7 +11,7 @@ jobs:
     name: "Update this repo's README WAKA Graph"
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@c59d497f95bb9e5c10bb90d5a6597fb5cb223508
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
