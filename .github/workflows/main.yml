@@ -23,4 +23,3 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
-          COMMIT_MESSAGE: "chore: update waka graph with new metrics"
