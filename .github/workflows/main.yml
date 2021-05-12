@@ -37,3 +37,22 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           file: 'README.md'
           template: '* [{{{ name }}}]({{{ url }}}) - {{{ login }}}'
+          
+  sponsors-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Update sponsors.svg
+        run: npx sponsors-svg
+        env:
+          SPONSORS_TOKEN: ${{ secrets.GH_TOKEN }}
+          SPONSORS_LOGIN: alexanderniebuhr
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: "chore: update sponsors.svg"
+          add: "sponsors.*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
