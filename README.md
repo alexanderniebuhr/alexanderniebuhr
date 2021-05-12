@@ -44,3 +44,11 @@ VS Code                  24 hrs 52 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
+
+## Sponsors
+
+These are our really cool sponsors!
+
+<!-- sponsors -->
+
+<!-- sponsors -->
