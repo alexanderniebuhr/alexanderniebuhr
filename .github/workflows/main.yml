@@ -1,13 +1,13 @@
-name: Waka Readme
+name: Update profile
 
 on:
   workflow_dispatch:
   schedule:
     # Runs on the 0, 6, 12 and 18th hour
-    - cron: "0 */6 * * *"
+    - cron: "0 */2 * * *"
 
 jobs:
-  update-readme:
+  wakatime:
     name: "Update this repo's README WAKA Graph"
     runs-on: ubuntu-latest
     steps:
@@ -24,3 +24,16 @@ jobs:
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
           COMMIT_MESSAGE: "chore: update waka graph with new metrics"
+          
+  sponsors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        
+      - name: Generate Sponsors 💖
+        uses: JamesIves/github-sponsors-readme-action@1.0.5
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          file: 'README.md'
+          template: '* [{{{ name }}}]({{{ url }}}) - {{{ login }}}'
