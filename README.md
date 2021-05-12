@@ -52,3 +52,9 @@ These are our really cool sponsors!
 <!-- sponsors -->
 
 <!-- sponsors -->
+
+<p align="center">
+  <a href="https://github.com/sponsors/alexanderniebuhr">
+    <img src='./sponsors.svg'/>
+  </a>
+</p>
