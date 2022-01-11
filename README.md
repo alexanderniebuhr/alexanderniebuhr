@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
