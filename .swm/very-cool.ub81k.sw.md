@@ -4,7 +4,7 @@ name: Very cool
 file_version: 1.0.2
 app_version: 0.8.7-1
 file_blobs:
-  index.js: 478c43b31b9d4cdabce4f96c220e4f9c4b0bffa5
+  index.js: 4b37c58b9451d84a283b82ada67e6b1bbc9ae38c
 ---
 
 this is a sum function
@@ -14,10 +14,13 @@ this is a sum function
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 index.js
 ```javascript
-🟩 1      function sum(a,b) {
-🟩 2        return a + b
-🟩 3      }
-⬜ 4      
+⬜ 6        return a * b
+⬜ 7      }
+⬜ 8      
+🟩 9      function sum(a,b,c) {
+🟩 10       return a + b + c
+🟩 11     }
+⬜ 12     
 ```
 
 <br/>
