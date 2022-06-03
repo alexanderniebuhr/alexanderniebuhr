@@ -10,8 +10,8 @@ function multiply(a,b) {
 // hier dokumentiere ich etwas
 //sehr cool
 
-function sum(a,b,c) {
-  return a + b + c
+function sum(a,b,c,x) {
+  return a + b + c +x
 }
 
 function sumTwo(a,b,x) {
