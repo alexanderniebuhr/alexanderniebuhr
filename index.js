@@ -6,6 +6,10 @@ function multiply(a,b) {
   return a * b
 }
 
+
+// hier dokumentiere ich etwas
+//sehr cool
+
 function sum(a,b,c) {
   return a + b + c
 }
