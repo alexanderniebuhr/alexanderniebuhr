@@ -9,7 +9,9 @@ function multiply(a,b) {
 
 // hier dokumentiere ich etwas
 //sehr cool
-
+function multiply(a,b) {
+  return a * b
+}
 function sum(a,b,c,x) {
   return a + b + c +x
 }
