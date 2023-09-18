@@ -1,6 +1,23 @@
-# Summary
-I am a seasoned professional with 6+ years of software engineering and full stack development experience in diverse sectors. Recognized for demonstrating a natural aptitude for technology integration, as well as for complex coding and data analysis, I have a verifiable history of contributing directly to company success throughout my career. As such, I have consistently exceeded performance goals, and I am adept at achieving maximum operational impacts with minimal resource expenditure. Professional focal points include application design, software testing, team training, cross-collaboration, cost containment, process enhancement, and problem solving. Delivering superior administration on the latter areas of expertise requires utilization of effective communication and prioritization skills, as well as critical thinking, best practices, project management, and systems analysis to support efficiency and maximum returns. 
+<h1 align="center">Hi 👋, I'm Alex</h1>
 
-Currently, I am the Senior Software Engineer with Fricke Holding. Under my leadership, I innovate, design, and launch intricate software systems and components while spearheading the introduction of a multi-brand agricultural machinery database throughout eight countries. I also provide informed recommendations regarding internal technical and external cooperation decisions which drive positive corporate results. In addition, I liaise with senior leadership, stakeholders, and cross-functional teams to ensure the company’s software support structure is driving the business forward with minimal expenditures.
+- 🌱 I’m currently learning **Rust**
 
-Colleagues describe me as a progressive, driven, down-to-earth, technical and engineering expert who can be relied on to offer superior solutions that deliver profitable results on time and under budget.
+- 👨‍💻 All of my projects are available at [https://nbhr.de](https://nbhr.de)
+
+- 📝 I regularly write articles on [https://nbhr.de](https://nbhr.de)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **tech@nbhr.io**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/alexanderniebuhr/](https://www.linkedin.com/in/alexanderniebuhr/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/realalexniebuhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realalexniebuhr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexanderniebuhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanderniebuhr" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexanderniebuhr&show_icons=true&locale=en&layout=compact" alt="alexanderniebuhr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderniebuhr&show_icons=true&locale=en" alt="alexanderniebuhr" /></p>
