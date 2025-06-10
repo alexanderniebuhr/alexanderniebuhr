@@ -1,23 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<img src="https://raw.githubusercontent.com/alexanderniebuhr/alexanderniebuhr/output/snake.svg" alt="Snake animation" />
 
-- 🌱 I’m currently learning **Rust**
+###
 
-- 👨‍💻 All of my projects are available at [https://nbhr.de](https://nbhr.de)
+<br clear="both">
 
-- 📝 I regularly write articles on [https://nbhr.de](https://nbhr.de)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexanderniebuhr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexanderniebuhr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=alexanderniebuhr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **tech@nbhr.io**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexanderniebuhr/](https://www.linkedin.com/in/alexanderniebuhr/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/realalexniebuhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realalexniebuhr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexanderniebuhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanderniebuhr" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexanderniebuhr&show_icons=true&locale=en&layout=compact" alt="alexanderniebuhr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderniebuhr&show_icons=true&locale=en" alt="alexanderniebuhr" /></p>
+###
