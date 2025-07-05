@@ -1,3 +1,19 @@
+# Hi there! 👋 I'm Alexander Niebuhr
+
+Welcome to my GitHub profile! I'm a passionate developer based in Lübeck, Germany, with a love for creating innovative solutions and contributing to the open-source community.
+
+## About Me
+
+- 🌍 Based in Lübeck, Germany
+- 🌐 Website: [nbhr.de](https://nbhr.de)
+- 🐦 Twitter: [@realalexniebuhr](https://twitter.com/realalexniebuhr)
+- 💼 Open to new opportunities
+- 🚀 Always learning and exploring new technologies
+
+Feel free to explore my repositories and connect with me!
+
+---
+
 <img src="https://raw.githubusercontent.com/alexanderniebuhr/alexanderniebuhr/output/snake.svg" alt="Snake animation" />
 
 ###
