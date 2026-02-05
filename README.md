@@ -1,1 +1,12 @@
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-spacing: 0;"><tr><td><img src="header-col1.svg" alt=""></td><td><img src="header-col2.svg" alt=""></td><td><img src="header-col3.svg" alt=""></td></tr><tr><td><img src="row1-col1.svg" alt=""></td><td><img src="row1-col2.svg" alt=""></td><td><img src="row1-col3.svg" alt=""></td></tr><tr><td><img src="row2-col1.svg" alt=""></td><td><img src="row2-col2.svg" alt=""></td><td><img src="row2-col3.svg" alt=""></td></tr><tr><td><img src="row3-col1.svg" alt=""></td><td><img src="row3-col2.svg" alt=""></td><td><img src="row3-col3.svg" alt=""></td></tr><tr><td><img src="row4-col1.svg" alt=""></td><td><img src="row4-col2.svg" alt=""></td><td><img src="row4-col3.svg" alt=""></td></tr><tr><td><img src="row5-col1.svg" alt=""></td><td><img src="row5-col2.svg" alt=""></td><td><img src="row5-col3.svg" alt=""></td></tr></table>
+<!-- credits https://github.com/antfu -->
+<p align="center">
+  <samp>
+    <a href="https://alexanderniebuhr.me">me</a> .
+    <a href="https://alexanderniebuhr.garden">blog</a> .
+    <a href="https://alexanderniebuhr.me/projects">projects</a> .
+    <a href="https://x.com/realalexniebuhr">tweets</a> .
+    <a href="https://craftlions.com">craftlions</a> .
+    <a href="https://craftlions.ai">craftlions ai</a> .
+    <a href="https://github.com/sponsors/alexanderniebuhr">sponsor</a>
+  </samp>
+</p>
