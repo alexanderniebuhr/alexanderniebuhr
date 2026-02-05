@@ -3,9 +3,6 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .cell {
-          border: 1px solid #30363d;
-          border-top: none;
-          border-radius: 0 0 10px 10px;
           padding: 12px 16px;
           height: 44px;
           display: flex;
