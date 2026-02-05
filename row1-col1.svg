@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 44" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 200 60" width="100%" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -6,23 +6,18 @@
           background: #0d1117;
           border: 1px solid #30363d;
           border-top: none;
-          border-radius: 0 0 10px 10px;
-          padding: 12px 16px;
-          height: 44px;
+          padding: 16px;
+          height: 60px;
           display: flex;
           align-items: center;
-          justify-content: space-between;
           font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
           font-weight: 600;
-          font-size: 12px;
-          color: #8b949e;
+          font-size: 14px;
+          color: #c9d1d9;
           box-sizing: border-box;
         }
       </style>
-      <div class="cell">
-        <span>Links</span>
-        <span>contact 👋</span>
-      </div>
+      <div class="cell">craftlions ai</div>
     </div>
   </foreignObject>
 </svg>

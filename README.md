@@ -1,30 +1,15 @@
-<div style="width:100%">
-
-  <!-- HEADER -->
-  <div style="width:33.33%;">
-    <a href="#">
-      <img src="header.svg" style="width:100%;">
-    </a>
-  </div>
-
-  <!-- ROW 1 -->
-  <div style="width:33.33%;">
-    <a href="#">
-      <img src="row1_col1.svg" style="width:33.33%;">
-    </a>
-    <a href="https://craftlions.ai/">
-      <img src="row1_col2.svg" style="width:33.33%;">
-    </a>
-    <a href="#">
-      <img src="row1_col3.svg" style="width:33.33%;">
-    </a>
-  </div>
-
-  <!-- FOOTER -->
-  <div style="width:33.33%;">
-    <a href="#">
-      <img src="footer.svg" style="width:100%;">
-    </a>
-  </div>
-
-</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
+  <tr>
+    <td width="33.33%"><a href="#"><img src="header-col1.svg" width="100%"></a></td>
+    <td width="33.33%"><a href="#"><img src="header-col2.svg" width="100%"></a></td>
+    <td width="33.33%"><a href="#"><img src="header-col3.svg" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="33.33%"><a href="#"><img src="row1-col1.svg" width="100%"></a></td>
+    <td width="33.33%"><a href="https://craftlions.ai/"><img src="row1-col2.svg" width="100%"></a></td>
+    <td width="33.33%"><a href="#"><img src="row1-col3.svg" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><a href="#"><img src="footer.svg" width="100%"></a></td>
+  </tr>
+</table>
