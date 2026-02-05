@@ -1,25 +1,20 @@
-<svg fill="none" viewBox="0 0 600 44" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+<svg fill="none" width="100%" height="52" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="52">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .cell {
-          padding: 12px 16px;
-          height: 44px;
+          padding: 16px;
           display: flex;
           align-items: center;
           justify-content: center;
-          gap: 16px;
           font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
           font-weight: 600;
-          font-size: 12px;
-          color: #8b949e;
+          font-size: 14px;
+          color: #c9d1d9;
           box-sizing: border-box;
         }
       </style>
-      <div class="cell">
-        <span>Links</span>
-        <span>contact 👋</span>
-      </div>
+      <div class="cell">about me</div>
     </div>
   </foreignObject>
 </svg>
